@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="500px" viewBox="0 0 860 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>caseStudy_Sharp_rise</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="66.9010276%" x2="100%" y2="33.0989724%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E6F2FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="caseStudy_Sharp_rise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="860" height="500"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="860" height="500"></rect>
+        <g id="Group" transform="translate(27.000000, 32.500000)">
+            <g id="Group-269">
+                <path d="M69.5,337.500009 L738.500021,337.500009 M69.5,307.500008 L738.500021,307.500008 M69.5,278.500007 L738.500021,278.500007 M69.5,248.500006 L738.500021,248.500006 M69.5,218.500005 L738.500021,218.500005 M69.5,189.500004 L738.500021,189.500004 M69.5,159.500003 L738.500021,159.500003 M69.5,129.500002 L738.500021,129.500002 M69.5,100.500001 L738.500021,100.500001 M69.5,70.5 L738.500021,70.5" id="Stroke-1" stroke="#E4E2E2" stroke-linejoin="round"></path>
+                <path d="M107,343 L142,343 L142,367 L107,367 L107,343 Z M219,323 L254,323 L254,367 L219,367 L219,323 Z M331,290 L366,290 L366,367 L331,367 L331,290 Z M442,219 L477,219 L477,367 L442,367 L442,219 Z M554,165 L589,165 L589,367 L554,367 L554,165 Z M666,100 L701,100 L701,367 L666,367 L666,100 Z" id="Fill-3" fill="#1E81C1"></path>
+                <line x1="69.5" y1="367.5" x2="738.500021" y2="367.500079" id="Stroke-5" stroke="#E4E2E2" stroke-linejoin="round"></line>
+                <polyline id="Stroke-7" stroke="#EE9C27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="125 278.000006 237.000004 263.000005 348.000007 174.000002 460.000011 130.000001 571.000014 115 683.000018 100"></polyline>
+                <text id="40" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="117.9383" y="334.600037">40</tspan>
+                </text>
+                <text id="75" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="229.579" y="313.600037">75</tspan>
+                </text>
+                <text id="130" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="337.7396" y="280.600037">130</tspan>
+                </text>
+                <text id="250" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="449.3803" y="209.600037">250</tspan>
+                </text>
+                <text id="340" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="561.021" y="156.600037">340</tspan>
+                </text>
+                <text id="450" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="672.6617" y="90.6000366">450</tspan>
+                </text>
+                <text id="30" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="133.3983" y="280.600037">30</tspan>
+                </text>
+                <text id="35" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="245.039" y="265.600037">35</tspan>
+                </text>
+                <text id="65" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="356.6797" y="176.600037">65</tspan>
+                </text>
+                <text id="80" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="468.3203" y="132.600037">80</tspan>
+                </text>
+                <text id="85" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="579.961" y="117.600037">85</tspan>
+                </text>
+                <text id="90" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="691.6017" y="102.600037">90</tspan>
+                </text>
+                <text id="0" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="750.0704" y="368.600037">0</tspan>
+                </text>
+                <text id="10" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="339.600037">10</tspan>
+                </text>
+                <text id="20" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="309.600037">20</tspan>
+                </text>
+                <text id="30" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="279.600037">30</tspan>
+                </text>
+                <text id="40" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="250.600037">40</tspan>
+                </text>
+                <text id="50" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="220.600037">50</tspan>
+                </text>
+                <text id="60" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="190.600037">60</tspan>
+                </text>
+                <text id="70" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="161.600037">70</tspan>
+                </text>
+                <text id="80" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="131.600037">80</tspan>
+                </text>
+                <text id="90" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="101.600037">90</tspan>
+                </text>
+                <text id="100" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="750.0704" y="72.6000366">100</tspan>
+                </text>
+                <text id="0" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="50.9696" y="368.600037">0</tspan>
+                </text>
+                <text id="50" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="44.00961" y="339.600037">50</tspan>
+                </text>
+                <text id="100" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="309.600037">100</tspan>
+                </text>
+                <text id="150" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="279.600037">150</tspan>
+                </text>
+                <text id="200" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="250.600037">200</tspan>
+                </text>
+                <text id="250" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="220.600037">250</tspan>
+                </text>
+                <text id="300" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="190.600037">300</tspan>
+                </text>
+                <text id="350" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="161.600037">350</tspan>
+                </text>
+                <text id="400" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="131.600037">400</tspan>
+                </text>
+                <text id="450" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="101.600037">450</tspan>
+                </text>
+                <text id="500" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" letter-spacing="0.00385" fill="#484341">
+                    <tspan x="37.04961" y="72.6000366">500</tspan>
+                </text>
+                <text id="1" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="121.4183" y="384.600037">1</tspan>
+                </text>
+                <text id="2" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="233.059" y="384.600037">2</tspan>
+                </text>
+                <text id="3" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="344.6997" y="384.600037">3</tspan>
+                </text>
+                <text id="4" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="456.3403" y="384.600037">4</tspan>
+                </text>
+                <text id="5" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="567.981" y="384.600037">5</tspan>
+                </text>
+                <text id="6" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#484341">
+                    <tspan x="679.6217" y="384.600037">6</tspan>
+                </text>
+                <g id="Group-256" transform="translate(783.000000, 172.000000)" fill="#484341" font-family="Lato-Semibold, Lato" font-size="18" font-weight="500" letter-spacing="0.00015">
+                    <text id="Accuracy-%" transform="translate(11.500000, 46.000002) rotate(90.000000) translate(-11.500000, -46.000002) ">
+                        <tspan x="-34.27925" y="53.0000021">Accuracy %</tspan>
+                    </text>
+                </g>
+                <text id="Number-of-Invoices" transform="translate(11.120010, 208.500002) rotate(-90.000000) translate(-11.120010, -208.500002) " font-family="Lato-Semibold, Lato" font-size="18" font-weight="500" fill="#484341">
+                    <tspan x="-67.37999" y="215.500002">Num</tspan>
+                    <tspan x="-28.51799" y="215.500002">b</tspan>
+                    <tspan x="-18.36599" y="215.500002">er of </tspan>
+                    <tspan x="23.45701" y="215.500002">I</tspan>
+                    <tspan x="28.65001" y="215.500002">nvo</tspan>
+                    <tspan x="58.43101" y="215.500002">i</tspan>
+                    <tspan x="62.88601" y="215.500002">ce</tspan>
+                    <tspan x="81.08401" y="215.500002">s</tspan>
+                </text>
+                <text id="Months" font-family="Lato-Semibold, Lato" font-size="18" font-weight="500" letter-spacing="-0.00105" fill="#484341">
+                    <tspan x="67.04961" y="412">M</tspan>
+                    <tspan x="83.63556" y="412" letter-spacing="0.01695">on</tspan>
+                    <tspan x="103.91946" y="412">t</tspan>
+                    <tspan x="110.49741" y="412" letter-spacing="0.01695">h</tspan>
+                    <tspan x="120.61236" y="412">s</tspan>
+                </text>
+                <text id="Volume-Vs.-Accuracy" font-family="Lato-Regular, Lato" font-size="26" font-weight="normal" letter-spacing="0.0026" fill="#484341">
+                    <tspan x="67.04961" y="26.6000366">Vo</tspan>
+                    <tspan x="97.44881" y="26.6000366">l</tspan>
+                    <tspan x="103.58481" y="26.6000366" letter-spacing="-0.013">um</tspan>
+                    <tspan x="139.43881" y="26.6000366" letter-spacing="-0.0026">e</tspan>
+                    <tspan x="153.16421" y="26.6000366"> </tspan>
+                    <tspan x="158.88421" y="26.6000366">V</tspan>
+                    <tspan x="174.69481" y="26.6000366" letter-spacing="-0.0026">s</tspan>
+                    <tspan x="185.95021" y="26.6000366">. </tspan>
+                    <tspan x="197.87121" y="26.6000366">A</tspan>
+                    <tspan x="215.12481" y="26.6000366" letter-spacing="-0.013">ccu</tspan>
+                    <tspan x="254.17681" y="26.6000366">r</tspan>
+                    <tspan x="263.43281" y="26.6000366">a</tspan>
+                    <tspan x="276.35741" y="26.6000366" letter-spacing="-0.013">c</tspan>
+                    <tspan x="288.75941" y="26.6000366">y</tspan>
+                </text>
+                <g id="Group-2" transform="translate(231.500000, 415.600037)">
+                    <polygon id="Fill-260" fill="#1E81C1" points="0 7.39996338 26 7.39996338 26 14.3999634 0 14.3999634"></polygon>
+                    <text id="Volume" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" letter-spacing="-0.0137333333" fill="#484341">
+                        <tspan x="32.9023" y="16">V</tspan>
+                        <tspan x="42.5205667" y="16" letter-spacing="0.418266667">o</tspan>
+                        <tspan x="52.0108333" y="16" letter-spacing="0.370266667">l</tspan>
+                        <tspan x="56.1571" y="16" letter-spacing="-0.781733333">u</tspan>
+                        <tspan x="64.2953667" y="16" letter-spacing="0.322266667">m</tspan>
+                        <tspan x="77.7776333" y="16">e</tspan>
+                    </text>
+                    <line x1="97.4487" y1="10.899924" x2="122.448701" y2="10.9000027" id="Stroke-263" stroke="#EE9C27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <text id="Accuracy" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" letter-spacing="-0.0137333333" fill="#484341">
+                        <tspan x="128.3685" y="16">A</tspan>
+                        <tspan x="138.970767" y="16" letter-spacing="0.498266667">cc</tspan>
+                        <tspan x="155.1033" y="16" letter-spacing="-0.781733333">u</tspan>
+                        <tspan x="163.241567" y="16" letter-spacing="0.994266667">r</tspan>
+                        <tspan x="169.931833" y="16" letter-spacing="0.194266667">a</tspan>
+                        <tspan x="178.0781" y="16" letter-spacing="-0.829733333">c</tspan>
+                        <tspan x="184.888367" y="16">y</tspan>
+                    </text>
+                    <path d="M203.4487,10.1499234 L203.4502,10.1499234 C203.8644,10.1499234 204.2002,10.4857134 204.2002,10.8999234 C204.2002,11.3141434 203.8644,11.6499234 203.4502,11.6499234 L203.4487,11.6499234 C203.0345,11.6499234 202.6987,11.3141334 202.6987,10.8999234 C202.6987,10.4857034 203.0345,10.1499234 203.4487,10.1499234 Z M206.4502,10.1499334 L206.4517,10.1499334 C206.8659,10.1499334 207.2017,10.4857234 207.2017,10.8999334 C207.2017,11.3141534 206.8659,11.6499334 206.4517,11.6499334 L206.4502,11.6499334 C206.036,11.6499334 205.7002,11.3141434 205.7002,10.8999334 C205.7002,10.4857134 206.036,10.1499334 206.4502,10.1499334 Z M209.4517,10.1499434 L209.4532,10.1499434 C209.8674,10.1499434 210.2032,10.4857334 210.2032,10.8999434 C210.2032,11.3141534 209.8674,11.6499434 209.4532,11.6499434 L209.4517,11.6499434 C209.0375,11.6499434 208.7017,11.3141534 208.7017,10.8999434 C208.7017,10.4857234 209.0375,10.1499434 209.4517,10.1499434 Z M212.4532,10.1499534 L212.4547,10.1499534 C212.8689,10.1499534 213.2047,10.4857434 213.2047,10.8999534 C213.2047,11.3141634 212.8689,11.6499534 212.4547,11.6499534 L212.4532,11.6499534 C212.039,11.6499534 211.7032,11.3141634 211.7032,10.8999534 C211.7032,10.4857334 212.039,10.1499534 212.4532,10.1499534 Z M215.4547,10.1499634 L215.4562,10.1499634 C215.8704,10.1499634 216.2062,10.4857534 216.2062,10.8999634 C216.2062,11.3141734 215.8704,11.6499634 215.4562,11.6499634 L215.4547,11.6499634 C215.0405,11.6499634 214.7047,11.3141734 214.7047,10.8999634 C214.7047,10.4857434 215.0405,10.1499634 215.4547,10.1499634 Z M218.4562,10.1499734 L218.4577,10.1499734 C218.8719,10.1499734 219.2077,10.4857634 219.2077,10.8999734 C219.2077,11.3141834 218.8719,11.6499734 218.4577,11.6499734 L218.4562,11.6499734 C218.042,11.6499734 217.7062,11.3141834 217.7062,10.8999634 C217.7062,10.4857534 218.042,10.1499734 218.4562,10.1499734 Z M221.4577,10.1499834 L221.4592,10.1499834 C221.8734,10.1499834 222.2092,10.4857734 222.2092,10.8999834 C222.2092,11.3141934 221.8734,11.6499834 221.4592,11.6499834 L221.4577,11.6499834 C221.0435,11.6499834 220.7077,11.3141934 220.7077,10.8999734 C220.7077,10.4857634 221.0435,10.1499834 221.4577,10.1499834 Z M224.4592,10.1499934 L224.4607,10.1499934 C224.8749,10.1499934 225.2107,10.4857734 225.2107,10.8999934 C225.2107,11.3142034 224.8749,11.6499934 224.4607,11.6499934 L224.4592,11.6499934 C224.045,11.6499934 223.7092,11.3142034 223.7092,10.8999834 C223.7092,10.4857734 224.045,10.1499934 224.4592,10.1499934 Z M227.4607,10.1500034 L227.4622,10.1500034 C227.8764,10.1500034 228.2122,10.4857834 228.2122,10.9000034 C228.2122,11.3142134 227.8764,11.6500034 227.4622,11.6500034 L227.4607,11.6500034 C227.0465,11.6500034 226.7107,11.3142134 226.7107,10.8999934 C226.7107,10.4857834 227.0465,10.1500034 227.4607,10.1500034 Z" id="Fill-266" fill="#AA52A5"></path>
+                    <text id="Linear-(Volume)" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" letter-spacing="-0.0186666667" fill="#484341">
+                        <tspan x="231.7046" y="16">L</tspan>
+                        <tspan x="239.901933" y="16" letter-spacing="0.365333333">i</tspan>
+                        <tspan x="244.107267" y="16" letter-spacing="0.605333333">n</tspan>
+                        <tspan x="253.6406" y="16" letter-spacing="-0.242666667">e</tspan>
+                        <tspan x="261.845933" y="16" letter-spacing="0.253333333">a</tspan>
+                        <tspan x="270.051267" y="16" letter-spacing="-0.290666667">r</tspan>
+                        <tspan x="275.2486" y="16" letter-spacing="0.109333333"> </tspan>
+                        <tspan x="279.453933" y="16" letter-spacing="1.26133333">(</tspan>
+                        <tspan x="285.091267" y="16" letter-spacing="0.0453333333">V</tspan>
+                        <tspan x="294.7686" y="16" letter-spacing="0.461333333">o</tspan>
+                        <tspan x="304.301933" y="16" letter-spacing="-0.898666667">l</tspan>
+                        <tspan x="307.179267" y="16" letter-spacing="0.605333333">u</tspan>
+                        <tspan x="316.7046" y="16" letter-spacing="0.365333333">m</tspan>
+                        <tspan x="330.229933" y="16" letter-spacing="-0.242666667">e</tspan>
+                        <tspan x="338.067267" y="16">)</tspan>
+                    </text>
+                </g>
+            </g>
+            <line x1="125.5007" y1="367.500079" x2="698.6017" y2="105.600037" id="Path-2" stroke="#AA52A5" stroke-width="1.5" stroke-dasharray="2,2"></line>
+        </g>
+    </g>
+</svg>
