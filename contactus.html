@@ -93,13 +93,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
                     <a class="nav-link link text-black display-4" href="index.html">
-                        Home</a>
+                        <span id="home">Home</span></a>
                 </li><li class="nav-item"><a class="nav-link link text-black display-4" href="index.html#features">
-                        Features</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="usecases.html">
-                        Use Cases</a></li>
+                <span id="feature">Features</span></a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="usecases.html">
+                <span id="usecases">Use Cases</span></a></li>
                 <li class="nav-item">
                     <a class="nav-link link text-black display-4" href="contactus.html">
-                        Contact Us</a>
+                        <span id="contactus">Contact Us</span></a>
                 </li></ul>
             
         </div>
@@ -124,7 +124,7 @@
         <div class="row justify-content-center">
             <div class="media-container-column col-lg-8" data-form-type="formoid">
 <!--Formbuilder Form-->
-<form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Neutron Contact Form"><input type="hidden" name="email" data-form-email="true" value="WcveEE5CsU4EavYwvGnjrFvgxJ6QBl6ltV9K8V8eKnMuBXNjrEglWh5ju9fNINl8aC9zVXRVo8k/7wr7hXOOHoxZ+g5Z4eybzr0hIT20X0oJGNOOR2eQRGXbAE5tgnhc.Oal7Ik/i2mVNPNGJdnK+XTzkEScwLmqYFo2z8aZvAewvFGPQmSf0ui3Cyrl7R21J0GS5aEe6sN/S0xnPcrAfKkjinIlwPvHXMMHd2fNNExw1JYOcKMC8BzuKV9E1iqjm">
+<form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Neutron Contact Form"><input type="hidden" name="email" data-form-email="true" value="X+VvckIs+RRKxbfX5S0RIBDRklgLERZYZ37dKLQ3uiEMhTsA+l2mWpz2X/wrwhgU0UdOQQNPeV88AR2TCrHT22lIYSzhhInJAAJlg40KHDOcQOWdU7r4yU4ooDuUFpky.321jO0VakYELDe62JrVR1tUqaOIw/LV4NyMWrpFd9NzEmwTVZw5l8IX+2kbSZJvh2ZuqR3i0R61okptANZfTYZ47bO2yBFk8V7XwnTBxSi/1rT2tEavEBs2g+nn40d0R">
 <div class="row">
 <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for contacting us! We will get back to you shortly.</div>
 <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12"> </div>
@@ -217,7 +217,35 @@
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/formoid/formoid.min.js"></script>
   
-  
+  <script>
+    var pathname = window.location.pathname
+    var pageArr = pathname.split('/')
+    
+    var pageName= ''
+    if (pageArr.length == 2) {
+        pageName = pageArr[1]
+    } else {
+        pageName = pageArr[2]
+    }
+
+    if (pageName.includes('index') || pageName == '') {
+        $('#home').addClass('active')
+    } else if (pageName.includes('usecases')) {
+        $('#usecases').addClass('active')
+    } else if (pageName.includes('contactus')) {
+        $('#contactus').addClass('active')
+    }
+
+    if (window.location.hash == '#features') {
+        $('#home').removeClass('active');
+        $('#feature').addClass('active');
+    }
+
+    $('#feature').click(function() {
+        $('#home').removeClass('active');
+        $(this).addClass('active');
+    })
+</script>
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
     <input name="animation" type="hidden">
   </body>
