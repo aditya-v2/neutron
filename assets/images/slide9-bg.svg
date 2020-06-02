@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Slide9_BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="65.8203125%" x2="100%" y2="34.1796875%" id="linearGradient-1">
+            <stop stop-color="#D1E0EC" offset="0%"></stop>
+            <stop stop-color="#F6C077" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.9959923%" y1="58.5194454%" x2="24.6035448%" y2="52.0957605%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.5531802%" y1="32.1449553%" x2="47.703637%" y2="43.3850353%" id="linearGradient-3">
+            <stop stop-color="#E3E3E3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,99.9803176 L0,67.9746544 C0.100197842,64.9876407 0.521253198,62.679237 1.26316607,61.0494435 C2.37603538,58.6047532 2.66452197,58.3763487 4.42957404,56.1838673 C5.60627542,54.722213 28.0392631,38.2164389 71.7285371,6.66654496 C77.4297918,2.69312716 82.7650618,0.706418263 87.7343472,0.706418263 C92.7036326,0.706418263 99.6787436,0.706418263 108.65968,0.706418263 L108.65968,99.9803176 L0,99.9803176 Z" id="path-4"></path>
+        <linearGradient x1="51.2869941%" y1="50.8013241%" x2="83.2568347%" y2="72.1684034%" id="linearGradient-6">
+            <stop stop-color="#808180" offset="0%"></stop>
+            <stop stop-color="#DADADA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.2699057,50.2263668 C17.9434555,47.9741747 24.1520278,46.8480787 30.8956226,46.8480787 C37.6392175,46.8480787 46.5788401,47.3179023 57.7144906,48.2575495 C57.3934858,39.2959543 57.8217915,31.775724 58.9994077,25.6968585 C60.177024,19.6179931 62.5021776,14.6447012 65.9748686,10.7769829 L12.2699057,50.2263668 Z" id="path-7"></path>
+        <filter x="-48.4%" y="-22.8%" width="167.0%" height="191.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="-8" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.31717111 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Slide9_BG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" opacity="0.6" x="0" y="0" width="1920" height="1080"></rect>
+        <g id="Group-17" opacity="0.6" transform="translate(1230.500000, 374.000000) scale(-1, -1) translate(-1230.500000, -374.000000) translate(541.000000, 0.000000)" fill="url(#linearGradient-2)">
+            <path d="M1378.903,0.000851639486 L1378.903,747.000852 L623.10334,747.001256 C278.972868,747.001256 4.21438282e-14,468.028388 0,123.897916 C-5.1952854e-15,81.4751909 4.23948226,40.0426504 12.3178892,0.000851639486 L1378.903,0.000851639486 Z" id="Combined-Shape" opacity="0.5"></path>
+        </g>
+        <g id="Group-6" transform="translate(1411.500000, 688.000000) rotate(28.000000) translate(-1411.500000, -688.000000) translate(1054.000000, 313.000000)" opacity="0.3">
+            <g id="Group-4" transform="translate(-0.000000, 0.253212)">
+                <polygon id="Rectangle" fill="#FFFFFF" transform="translate(357.786499, 374.502388) rotate(-19.000000) translate(-357.786499, -374.502388) " points="169.655127 73.6732765 631.180279 74.0330531 631.647931 675.331499 84.3405338 674.904852 83.9250667 140.704297"></polygon>
+                <g id="Group" transform="translate(336.358720, 334.882631) rotate(-19.000000) translate(-336.358720, -334.882631) translate(69.858720, 76.382631)">
+                    <g id="Group-2" transform="translate(28.480463, 448.221427)" fill="#494342" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="6" font-weight="400" letter-spacing="0.2" line-spacing="10">
+                        <text id="Note-:-To-protect-fo">
+                            <tspan x="0" y="6">Note :</tspan>
+                            <tspan x="0" y="17" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal"> To protect for a higher value, you may declare a higher value and pay the as valorem freght charge or </tspan>
+                            <tspan x="0" y="27" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">purchase cargo insurance. </tspan>
+                            <tspan x="0" y="38" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal"></tspan>
+                            <tspan x="0" y="49" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">Declared value :</tspan>
+                            <tspan x="0" y="60" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">the shipper may increase the carriers liablity by declaning a higher value in the “Declared value” box</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle" fill="#1D80A9" opacity="0.1" x="20.4442029" y="407.633809" width="511.587926" height="23.0552369"></rect>
+                    <rect id="Rectangle" fill="#1D80A9" opacity="0.0360584077" x="20.4442029" y="436.995661" width="511.587926" height="79.0431977"></rect>
+                    <text id="Total-number-of-pack" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" fill="#000000">
+                        <tspan x="398.987602" y="422.210677">Total number of </tspan>
+                        <tspan x="398.987602" y="432.210677">packages</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#1D80A9" opacity="0.2" x="20.4442029" y="116.568858" width="511.587926" height="13.7560374"></rect>
+                    <rect id="Rectangle" fill="#1D80A9" opacity="0.2" x="20.4442029" y="162.134936" width="511.587926" height="13.7560374"></rect>
+                    <rect id="Rectangle" fill="#1D80A9" opacity="0.2" x="20.4442029" y="205.841175" width="511.587926" height="13.7560374"></rect>
+                    <text id="Measurement" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="478.173889" y="319.22257">Measureme</tspan>
+                        <tspan x="515.637889" y="329.22257">nt</tspan>
+                    </text>
+                    <text id="Gross-weight" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="400.160131" y="319.571025">Gross weight</tspan>
+                    </text>
+                    <text id="2000-Kg" font-family="HelveticaNeue, Helvetica Neue" font-size="9" font-weight="normal" line-spacing="12" letter-spacing="0.2" fill="#494342">
+                        <tspan x="429.848131" y="341.889105">2000 </tspan>
+                        <tspan x="439.095131" y="353.889105">Kg</tspan>
+                    </text>
+                    <text id="Description-of-packa" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="216.324298" y="319.571025">Description of packages and goods	</tspan>
+                    </text>
+                    <text id="Printing-machine" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400" line-spacing="12" letter-spacing="0.2" fill="#494342">
+                        <tspan x="28.4804635" y="340.557584">Printing </tspan>
+                        <tspan x="28.4804635" y="352.557584">machine</tspan>
+                        <tspan x="28.4804635" y="364.557584"></tspan>
+                        <tspan x="28.4804635" y="376.557584"></tspan>
+                    </text>
+                    <text id="6500" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400" line-spacing="12" letter-spacing="0.2" fill="#494342">
+                        <tspan x="132.96452" y="338.875663">650</tspan>
+                        <tspan x="132.96452" y="350.875663">0</tspan>
+                        <tspan x="132.96452" y="362.875663"></tspan>
+                        <tspan x="132.96452" y="374.875663"></tspan>
+                        <tspan x="132.96452" y="386.875663"></tspan>
+                        <tspan x="132.96452" y="398.875663"></tspan>
+                        <tspan x="132.96452" y="410.875663"></tspan>
+                        <tspan x="132.96452" y="422.875663"></tspan>
+                    </text>
+                    <text id="6500" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" line-spacing="12" letter-spacing="0.2" fill="#494342">
+                        <tspan x="503.471658" y="420.775902">650</tspan>
+                        <tspan x="503.471658" y="432.775902">0</tspan>
+                    </text>
+                    <text id="Machine-Identity-num" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400" line-spacing="12" letter-spacing="0.2" fill="#494342">
+                        <tspan x="216.324298" y="340.557584">Machine Identity number M9734866, </tspan>
+                        <tspan x="216.324298" y="352.557584">M68832889, M6674823</tspan>
+                        <tspan x="216.324298" y="364.557584"></tspan>
+                    </text>
+                    <text id="Marks-&amp;-nos/cont-nos" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="28.4804635" y="319.57297">Marks &amp; nos/cont nos</tspan>
+                    </text>
+                    <text id="No-of-packages" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="132.96452" y="319.22257">No of packages</tspan>
+                    </text>
+                    <text id="62.53-M3" font-family="HelveticaNeue, Helvetica Neue" font-size="9" font-weight="normal" line-spacing="12" letter-spacing="0.2" fill="#494342">
+                        <tspan x="499.679889" y="341.889105">62.53 </tspan>
+                        <tspan x="509.954889" y="353.889105">M3</tspan>
+                    </text>
+                    <polygon id="Path-2-Copy" fill="#F6F2F2" fill-rule="nonzero" points="124.36276 306.614103 124.36276 405.18562 124.86276 405.18562 124.86276 306.614103"></polygon>
+                    <polygon id="Path-2-Copy" fill="#F6F2F2" fill-rule="nonzero" points="208.055557 306.614103 208.055557 429.158067 208.555557 429.158067 208.555557 306.614103"></polygon>
+                    <polygon id="Path-2-Copy" fill="#F6F2F2" fill-rule="nonzero" points="384.740352 306.614103 384.740352 405.18562 385.240352 405.18562 385.240352 306.614103"></polygon>
+                    <polygon id="Path-2-Copy" fill="#F6F2F2" fill-rule="nonzero" points="459.13395 306.614103 459.13395 405.18562 459.63395 405.18562 459.63395 306.614103"></polygon>
+                    <text id="Shipper/Exporter-(-p" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="21.9293889" y="215.173291">SHIPPER/EXPORTER </tspan>
+                        <tspan x="85.3233889" y="215.173291">( provide complete name and address) :</tspan>
+                        <tspan x="21.9293889" y="223.173291" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="21.9293889" y="234.173291" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">1717 South College Street, Auburn AL 36830.</tspan>
+                    </text>
+                    <text id="Booking-No-:-HU78RN5" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="285.936355" y="125.900974">BOOKING </tspan>
+                        <tspan x="285.936355" y="132.900974">NO</tspan>
+                        <tspan x="295.228355" y="132.900974"> :</tspan>
+                        <tspan x="285.936355" y="140.900974" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="285.936355" y="151.900974" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">HU78RN5</tspan>
+                        <tspan x="285.936355" y="161.900974" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">6</tspan>
+                    </text>
+                    <text id="Bill-of-lading-no-:" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="409.615711" y="125.900974">BILL OF LADING NO</tspan>
+                        <tspan x="469.139711" y="125.900974"> :</tspan>
+                        <tspan x="409.615711" y="133.900974" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="409.615711" y="144.900974" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">HYR573</tspan>
+                    </text>
+                    <text id="Bill-Of-Lading" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#494342">
+                        <tspan x="429.868318" y="68.4497396">Bill  Of Lading</tspan>
+                    </text>
+                    <text id="CONSIgnee-(-provide" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="21.9293889" y="172.396972">CONSIGNEE </tspan>
+                        <tspan x="60.4813889" y="172.396972">( provide complete name and address) :</tspan>
+                        <tspan x="21.9293889" y="180.396972" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="21.9293889" y="191.396972" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">124 Street, GT 33456731, 5673895</tspan>
+                    </text>
+                    <text id="Export-References-:" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="285.936355" y="172.396972">EXPORT REFERENCES</tspan>
+                        <tspan x="353.110355" y="172.396972"> :</tspan>
+                        <tspan x="285.936355" y="180.396972" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="285.936355" y="191.396972" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">Ref</tspan>
+                    </text>
+                    <text id="forwarding-agent/fmc" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="413.335391" y="172.396972">FORWARDING AGENT/FMC NO:</tspan>
+                        <tspan x="413.335391" y="180.396972" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="413.335391" y="191.396972" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">Rohan</tspan>
+                    </text>
+                    <text id="notify-party-(-compl" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="21.9293889" y="125.900974">NOTIFY PARTY </tspan>
+                        <tspan x="67.7533889" y="125.900974">(   complete name and address) :</tspan>
+                        <tspan x="21.9293889" y="133.900974" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="21.9293889" y="144.900974" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">1011 US Hwy 72 East, Athens AL 35611 </tspan>
+                    </text>
+                    <text id="point-and-country-of" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="285.936355" y="215.173291">POINT AND COUNTRY OF IRIGIN</tspan>
+                        <tspan x="382.668355" y="215.173291"> :</tspan>
+                        <tspan x="285.936355" y="223.173291" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="285.936355" y="234.173291" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">US</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#1D80A9" opacity="0.2" x="276.769096" y="245.827734" width="255.263032" height="13.7560374"></rect>
+                    <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="276.404675 116.910429 276.404675 292.665303 276.904675 292.665303 276.904675 116.910429"></polygon>
+                    <g id="Group-3">
+                        <g id="thick-line" transform="translate(0.000000, 0.223502)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="Mask" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Path-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                    </g>
+                    <text id="Naina" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#195F7C">
+                        <tspan x="22.3040428" y="68.5548596">Naina</tspan>
+                    </text>
+                    <text id="For-Delivery-of-good" font-family="HelveticaNeue, Helvetica Neue" font-size="6" font-weight="normal" letter-spacing="0.2" fill="#494342">
+                        <tspan x="285.936355" y="255.15985">FOR DELIVERY OF GOODS PLEASE PRESENT DOCUMENT TO</tspan>
+                        <tspan x="468.450355" y="255.15985"> :</tspan>
+                        <tspan x="285.936355" y="263.15985" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold"></tspan>
+                        <tspan x="285.936355" y="274.15985" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="8" font-weight="400">James Smith (Taking delivery)</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
